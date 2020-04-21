@@ -30,6 +30,9 @@ letter-spacing: 1px;
   width:25%
  }
 }
+.header-image--on {
+    opacity: 1;
+}
 .header-overlay {
  position:absolute;
  top:0;
