@@ -1,3 +1,35 @@
 .sidebar-about h1 {
 letter-spacing: 1px;
 }
+
+.header-image {
+ position:absolute;
+ top:0;
+ left:0;
+ bottom:0;
+ right:0;
+ background-size:cover;
+ background-position:center;
+ background-repeat:no-repeat;
+ opacity:0;
+ -webkit-transition:opacity .4s ease-in-out;
+ -moz-transition:opacity .4s ease-in-out;
+ -ms-transition:opacity .4s ease-in-out;
+ -o-transition:opacity .4s ease-in-out;
+ transition:opacity .4s ease-in-out
+}
+@media only screen and (min-width:1024px) {
+ .header-image {
+  position:fixed;
+  right:auto;
+  width:30%
+ }
+}
+@media only screen and (min-width:1600px) {
+ .header-image {
+  width:25%
+ }
+}
+.header-image--on {
+ opacity:1
+}
