@@ -1,9 +1,21 @@
-a { color: #000000 !important; text-decoration: none; }
+a {
+ color:#000000 !important;
+ text-decoration:none
+}
+a:hover,
+a:focus {
+ color:#000000 !important;
+ font-weight:bold
+}
+a small {
+ font-size:11px;
+ color:#000000 !important;
+ margin-top:-0.3em;
+ display:block
+}
+a:hover small {
+ color:#000000 !important
+}
 
-a:hover, a:focus { color: #000000 !important; font-weight: bold; }
-
-a small { font-size: 11px; color: #000000 !important; margin-top: -0.3em; display: block; }
-
-a:hover small { color: #000000 !important; }
 
 @import "{{ site.theme }}";
