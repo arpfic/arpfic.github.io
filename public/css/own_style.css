@@ -34,11 +34,11 @@ letter-spacing: 1px;
  right:0;
  background:rgba(22,27,33,.7)
 }
-@media (min-width: 48em) {
+/*@media (min-width: 48em) {
  .header-overlay {
   background:-moz-linear-gradient(top,rgba(22,27,33,0) 0,rgba(22,27,33,.01) 1%,rgba(22,27,33,.7) 70%,rgba(22,27,33,.7) 100%);
   background:-webkit-linear-gradient(top,rgba(22,27,33,0) 0,rgba(22,27,33,.01) 1%,rgba(22,27,33,.7) 70%,rgba(22,27,33,.7) 100%);
   background:linear-gradient(to bottom,rgba(22,27,33,0) 0,rgba(22,27,33,.01) 1%,rgba(22,27,33,.7) 70%,rgba(22,27,33,.7) 100%)
  }
 }
-
+*/
