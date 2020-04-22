@@ -1,8 +1,8 @@
 # Setup
 title:            ARPFIC
 tagline:          'Attempts on organ making'
-description-top:      '<p>Il est &agrave; se demander parfois si nos usages ne sont pas insens&eacute;. D&apos;autres feraient aussi bien l&apos;affaire, peut-&ecirc;tre. Il suffirait d&apos;essayer.</p><p>Qu&apos;est-ce que j&apos;ai ? Ce sont de filles pens&eacute;es. Il faut de la discipline. <i>(Un temps.)</i></p>'
-description-bottom:      'Tentatives autour d&apos;un orgue excentr&eacute;. Voir <a href="www.violonaroue.fr" target="_blank">violonaroue.fr</a>. &copy; 2020 ARPFIC'
+description-top:  '<p>Il est &agrave; se demander parfois si nos usages ne sont pas insens&eacute;. D&apos;autres feraient aussi bien l&apos;affaire, peut-&ecirc;tre. Il suffirait d&apos;essayer.</p><p>Qu&apos;est-ce que j&apos;ai ? Ce sont de filles pens&eacute;es. Il faut de la discipline. <i>(Un temps.)</i></p>'
+description-bottom: 'Tentatives autour d&apos;un orgue excentr&eacute;. Il y a aussi <a href="www.violonaroue.fr" target="_blank">violonaroue.fr</a> &copy; 2020 ARPFIC'
 
 url:              https://arpfic.github.io
 baseurl:          ''
