@@ -1,8 +1,9 @@
 # Setup
 title:            ARPFIC
 tagline:          'R&D on transverse organ making'
-description-top:  'C'est à se demander parfois si nos usages ne sont pas insensés. D'autres feraient aussi bien l'affaire, il suffirait d'essayer.<p>Qu'est-ce que j'ai ? Ce sont de folles pensées. Il faut de la discipline</p>'
-description-bottom: '<a href="http://www.violonaroue.fr/" target="_blank">www.violonaroue.fr</a>. &copy; ARPFIC'
+description:
+  top:  'C est à se demander parfois si nos usages ne sont pas insensés. D autres feraient aussi bien l affaire, il suffirait d'essayer.<p>Qu est-ce que j ai ? Ce sont de folles pensées. Il faut de la discipline</p>'
+  bottom: '<a href="http://www.violonaroue.fr/" target="_blank">www.violonaroue.fr</a>. &copy; ARPFIC'
 url:              https://arpfic.github.io
 baseurl:          ''
 paginate:         5
