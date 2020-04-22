@@ -1,8 +1,8 @@
 # Setup
 title:            ARPFIC
 tagline:          'Attempts on organ making'
-description-top:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-description-bottom:      'Tentatives autour d&#145;un orgue excentr&#145;. Voir <a href="www.violonaroue.fr" target="_blank">violonaroue.fr</a>.&copy; ARPFIC'
+description-top:      'Il est &agrave; se demander parfois si nos usages ne sont pas insens&eacute;. D&apos;autres feraient aussi bien l&apos;affaire'
+description-bottom:      'Tentatives autour d&apos;un orgue excentr&eacute;. Voir <a href="www.violonaroue.fr" target="_blank">violonaroue.fr</a>. &copy; 2020 ARPFIC'
 
 url:              https://arpfic.github.io
 baseurl:          ''
