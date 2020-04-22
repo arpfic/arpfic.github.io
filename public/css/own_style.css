@@ -1,3 +1,8 @@
+.lead {
+    font-size: 1rem;
+    font-weight: 300;
+    color: rgba(255,255,255,.8);
+}
 .sidebar-about h1 {
 letter-spacing: 1px;
 }
