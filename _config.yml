@@ -1,8 +1,8 @@
 # Setup
 title:            ARPFIC
-tagline:          'R&D on transverse organ making'
+tagline:          'Attempts on organ making'
 description-top:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-description-bottom:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description-bottom:      'Tentatives autour d'un orgue excentré. Voir <a href="www.violonaroue.fr" target="_blank">violonaroue.fr</a>.&copy; ARPFIC'
 
 url:              https://arpfic.github.io
 baseurl:          ''
