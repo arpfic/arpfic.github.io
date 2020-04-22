@@ -3,13 +3,17 @@ letter-spacing: 1px;
 }
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
 .theme-base-08 .sidebar{
   background-color: #202020;
 }
+
+  background:-moz-linear-gradient(top,rgba(22,27,33,0) 0,rgba(22,27,33,.01) 1%,rgba(22,27,33,.7) 70%,rgba(22,27,33,.7) 100%);
+  background:-webkit-linear-gradient(top,rgba(22,27,33,0) 0,rgba(22,27,33,.01) 1%,rgba(22,27,33,.7) 70%,rgba(22,27,33,.7) 100%);
+  background:linear-gradient(to bottom,rgba(22,27,33,0) 0,rgba(22,27,33,.01) 1%,rgba(22,27,33,.7) 70%,rgba(22,27,33,.7) 100%)
+
 .header-image {
  top:0;
  left:0;
@@ -56,10 +60,9 @@ letter-spacing: 1px;
   flex-flow: row nowrap;
   }
   .header-image, .header-overlay{
-  position:relative;
+  position: inherit;
   flex: none;
   width: 100%;
-  margin: -2rem -1rem;
   }
   .sidebar-sticky{
   flex: none;
