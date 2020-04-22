@@ -1,3 +1,13 @@
+@media (min-width: 48em) {
+  html {
+    font-size: 16px;
+  }
+}
+@media (min-width: 58em) {
+  html {
+    font-size: 16px;
+  }
+}
 .sidebar-about h1{
 	font-size: 2.75rem;
 }
