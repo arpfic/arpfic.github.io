@@ -1,7 +1,8 @@
 # Setup
 title:            ARPFIC
 tagline:          'R&D on transverse organ making'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description-top:  'C'est à se demander parfois si nos usages ne sont pas insensés. D'autres feraient aussi bien l'affaire, il suffirait d'essayer.<p>Qu'est-ce que j'ai ? Ce sont de folles pensées. Il faut de la discipline</p>'
+description-bottom: '<a href="http://www.violonaroue.fr/" target="_blank">www.violonaroue.fr</a>. &copy; ARPFIC'
 url:              https://arpfic.github.io
 baseurl:          ''
 paginate:         5
