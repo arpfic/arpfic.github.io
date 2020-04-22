@@ -1,6 +1,6 @@
 ---
 layout: page
-title: &Agrave; propos
+title: À propos
 ---
 
 <p class="message">
