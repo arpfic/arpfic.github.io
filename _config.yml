@@ -5,6 +5,7 @@ description:      'A brazen two-column <a href="https://jekyllrb.com" target="_b
 url:              https://arpfic.github.io
 baseurl:          ''
 paginate:         5
+background:       https://arpfic.github.io/img/49.jpg
 
 # About and contact
 author:
