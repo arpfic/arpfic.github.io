@@ -1,7 +1,7 @@
 # Setup
 title:            Tentatives autour d'un orgue excentré
 tagline:          'Attempts on organ making'
-url:              https://arpfic.github.io
+url:              https://github.com/arpfic/Organous_OSC
 baseurl:          ''
 paginate:         5
 background:       https://arpfic.github.io/img/49.jpg
@@ -9,7 +9,7 @@ background:       https://arpfic.github.io/img/49.jpg
 description:
   top:            Il est à se demander parfois si nos usages ne sont pas insensés. D'autres feraient aussi bien l'affaire, peut-être. Il suffirait d'essayer.
   center:         Qu'est-ce que j'ai ? Ce sont de folles pensées. Il faut de la discipline. <i>(Un temps.)</i>
-  bottom:         '&copy; 2020 ARPFIC. Il y a aussi <a href="http://www.violonaroue.fr" target="_blank">violonaroue.fr</a>'
+  bottom:         '&copy; 2020 <a href="https://arpfic.github.io" target="_blank">ARPFIC</a>. Il y a aussi <a href="http://www.violonaroue.fr" target="_blank">violonaroue.fr</a>'
 
 # About and contact
 author:
