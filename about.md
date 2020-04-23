@@ -9,7 +9,7 @@ L'Orguanous est le prototype d'un orgue d'un nouveau genre, à l'origine dévelo
 
 Il permet ainsi d'entendre un orgue hors d'une église, de découvrir d'autres acoustiques, et se trouve plus adapté aux façons de jouer la musique aujourd'hui, en tournée.
 
-![](https://github.com/arpfic/arpfic.github.io/raw/master/img/47.jpg)
+![](https://raw.githubusercontent.com/arpfic/arpfic.github.io/master/img/47.jpg)
 
 ###  Une conception modulaire
 
@@ -32,7 +32,7 @@ Habituellement, ce genre de système est utilisé pour reconnecter en amont un c
 * des outils on été développés sur Puredata afin de contrôler l'orgue, inspiré par les interfaces propres aux synthétiseurs modulaires ;
 * plusieurs musiciens jouant sur différentes interfaces, peuvent également jouer simultanément sur l'Orguanous, le concevant ainsi comme un diffuseur très spécifique.
 
-![](https://github.com/arpfic/arpfic.github.io/raw/master/img/48.jpg)
+![](https://raw.githubusercontent.com/arpfic/arpfic.github.io/master/img/48.jpg)
 
 -----
 
