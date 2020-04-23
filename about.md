@@ -22,6 +22,8 @@ Il se compose à présent de 8 modules :
 * Un registre de Bourdon 8', 56 flûtes en bois à colonne d'air fermée au son très rond, sinusoidal, réparti en 4 modules, gauche/droite, et basse/aigu.
 * Un registre de Cromorne 8', 56 anches en laiton au son très riche en harmoniques, type signal carré, se rapprochant du son d'une cornemuse, réparti en 2 modules.
 
+![](https://raw.githubusercontent.com/arpfic/arpfic.github.io/master/img/49.jpg)
+
 ### Contrôlé en MIDI
 
 Chaque flûte est alimentée en air par une électrovanne, elle-même pilotée par ordinateur. 
