@@ -9,6 +9,8 @@ L'Orguanous est le prototype d'un orgue d'un nouveau genre, à l'origine dévelo
 
 Il permet ainsi d'entendre un orgue hors d'une église, de découvrir d'autres acoustiques, et se trouve plus adapté aux façons de jouer la musique aujourd'hui, en tournée.
 
+![](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/img/47.jpg
+
 ###  Une conception modulaire
 
 Il permet de spatialiser la disposition des flûtes, et selon les envies, de placer l'auditeur en immersion, ou bien de créer une façade, tel un sound system. Il permet aussi d'imaginer de rajouter d'autres modules à l'avenir.
@@ -29,4 +31,10 @@ Habituellement, ce genre de système est utilisé pour reconnecter en amont un c
 * via un logiciel transformant le signal audio en information MIDI, Julien Desailly (Pancrace) utilise l'orgue doublé à l'unisson de sa cornemuse ;
 * des outils on été développés sur Puredata afin de contrôler l'orgue, inspiré par les interfaces propres aux synthétiseurs modulaires ;
 * plusieurs musiciens jouant sur différentes interfaces, peuvent également jouer simultanément sur l'Orguanous, le concevant ainsi comme un diffuseur très spécifique.
+
+![](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/img/47.jpg
+
+-----
+
+Source : [http://www.violonaroue.fr/Orguanous](http://www.violonaroue.fr/Orguanous)
 
