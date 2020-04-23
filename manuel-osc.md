@@ -1,6 +1,4 @@
 ---
 layout: page
-title: Manuel du contrôleur
+title: Manuel du contrôleur OSC
 ---
-
-Ici, un manuel !

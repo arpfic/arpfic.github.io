@@ -22,8 +22,6 @@ Il se compose à présent de 8 modules :
 * Un registre de Bourdon 8', 56 flûtes en bois à colonne d'air fermée au son très rond, sinusoidal, réparti en 4 modules, gauche/droite, et basse/aigu.
 * Un registre de Cromorne 8', 56 anches en laiton au son très riche en harmoniques, type signal carré, se rapprochant du son d'une cornemuse, réparti en 2 modules.
 
-![](https://raw.githubusercontent.com/arpfic/arpfic.github.io/master/img/49.jpg)
-
 ### Contrôlé en MIDI
 
 Chaque flûte est alimentée en air par une électrovanne, elle-même pilotée par ordinateur. 
@@ -31,8 +29,8 @@ Chaque flûte est alimentée en air par une électrovanne, elle-même pilotée p
 Habituellement, ce genre de système est utilisé pour reconnecter en amont un clavier maître afin de jouer avec 2 mains, 10 doigts. Cependant, il existe une quantité énorme de logiciels et d'interfaces qui génèrent ou traitent de la donnée MIDI, offrant beaucoup d'alternatives au clavier. Pour donner quelques exemples :
 
 * via un logiciel transformant le signal audio en information MIDI, Julien Desailly (Pancrace) utilise l'orgue doublé à l'unisson de sa cornemuse ;
-* des outils on été développés sur Puredata afin de contrôler l'orgue, inspiré par les interfaces propres aux synthétiseurs modulaires ;
-* plusieurs musiciens jouant sur différentes interfaces, peuvent également jouer simultanément sur l'Orguanous, le concevant ainsi comme un diffuseur très spécifique.
+* des outils on été développés sur *Puredata* afin de contrôler l'orgue, inspiré par les interfaces propres aux synthétiseurs modulaires ;
+* plusieurs musiciens jouant sur différentes interfaces, peuvent également *jouer simultanément* sur l'Orguanous, le concevant ainsi comme un diffuseur très spécifique.
 
 ![](https://raw.githubusercontent.com/arpfic/arpfic.github.io/master/img/48.jpg)
 
