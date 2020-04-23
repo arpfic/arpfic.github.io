@@ -44,6 +44,6 @@ Un ensemble de contraintes pour un cahier des charges a déjà été donné.
 
 #### Premières tentatives
 
-Plusieurs pistes ont été envisagées, et le travail en cours sera bien plus détaillé dans ce site dont c'est l'objet.
+Plusieurs pistes ont été envisagées, et le travail en cours sera bien plus détaillé dans ce site dont il est l'un des objet.
 
 ![](https://raw.githubusercontent.com/arpfic/arpfic.github.io/master/img/sprint_layout.jpg)
