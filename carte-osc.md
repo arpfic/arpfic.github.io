@@ -68,10 +68,10 @@ La carte se programme par **copier-coller** de son firmware dans sa mémoire com
 
 Le firmware lui-même est téléchargeable [ici](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Firmware/Organous_OSC_stable.bin).
 
-Attention cependant : la communication entre les cartes-filles et les cartes-mères imposent une *adresse I2C*. le firmware stable du dessus prend comme adresses I2C les petites soudures sur les cartes de sorte que :
+Attention cependant : la communication entre les cartes-filles et les cartes-mères imposent une *adresse I2C*. Le firmware stable du dessus prend comme adresses I2C les petites soudures sur les cartes de sorte que :
 
-* sur le **SOCKET A 1-24**, l'adresse est **Vdd-GND-Vdd**(*0x2A* dans le programme)
-* sur le **SOCKET B 25-48**, l'adresse est **GND-Vdd-GND**(*0xD2* dans le programme).
+* sur le **SOCKET A 1-24**, l'adresse est **Vdd-GND-Vdd** (*0x2A* dans le programme)
+* sur le **SOCKET B 25-48**, l'adresse est **GND-Vdd-GND** (*0xD2* dans le programme).
 
 ### Interface avec Puredata
 
@@ -79,7 +79,7 @@ Il faut d'abord s'être assuré d'avoir connecté un ordinateur au même réseau
 
 ... Et d'avoir alimenté l'ensemble avec au minimum une alimentation supérieure à 8V en configuration **GND/GND/8V**.
 
-Le programme encore en phase de test téléchargeable [ici](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Puredata/pd_osc_F767ZI_stable.pd).
+Le patch puredata encore en phase de test est téléchargeable [ici](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Puredata/pd_osc_F767ZI_stable.pd).
 
 Si le réseau et la carte fonctionnent correctement :
 
