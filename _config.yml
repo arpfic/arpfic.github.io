@@ -18,6 +18,7 @@ author:
 
 # Gems
 plugins:
+  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
 
