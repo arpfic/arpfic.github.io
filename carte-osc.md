@@ -23,7 +23,9 @@ Du point de vue de la carte, ces éléments se retrouvent tels que :
 
 ### Branchements
 
-##### À partir de la carte fille, les branchements avec le reste de l'orgue sont assez simples :
+##### À partir de la carte fille
+
+Les branchements avec le reste de l'orgue sont assez simples :
 
 ![](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Hardware/carte_osc_fonctions.png)
 
@@ -47,9 +49,9 @@ Les limites absolues du driver sont de :
 
 ##### Pour la carte-mère
 
-![](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Hardware/Nucleo_144.jpg)
+La carte-mère pour sa part, la **Nucleo-767ZI** se branche d'un côté ou de l'autre selon les sorties que l'on souhaite voir utilisées par l'intermédiaire des grands ports **CN1 1** et **CN1 2** de part et d'autre :
 
-La carte-mère de son côté **Nucleo-767ZI** se branche d'un côté ou de l'autre selon les sorties que l'on souhaite voir utilisées par l'intermédiaire des grands ports **CN1 1** et **CN1 2** de part et d'autre.
+![](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Hardware/Nucleo_144.jpg)
 
 Afin d'être alimentée par l'alimentation de la carte-fille au travers du convertisseur 5V, il est nécessaire si cela n'a pas été déjà fait de placer le jumper **JP3** sur la configuration **E5V**, tout à gauche.
 
