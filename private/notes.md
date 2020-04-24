@@ -1,5 +1,5 @@
 ---
-layout: draft
+layout: page
 title: Cahier de notes
 search: exclude
 sitemap: false
