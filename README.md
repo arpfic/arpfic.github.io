@@ -20,7 +20,7 @@ Une feuille de triche pour la syntaxe du *markdown* est téléchargeable et impr
 
 Par ailleurs, le fichier `_config.yml` contient les divers éléments configurables pour le site.
 
-**NB :** d'une manière générale, un fichier ou un dossier commençant par `_` est par convention un fichier qui sera compilé par Jekyll.
+**NB :** dans toute la structure un fichier ou un dossier commençant par `_` est par convention un élément du fonctionnement interne de Jekyll.
 
 ### Structure d'une page
 
