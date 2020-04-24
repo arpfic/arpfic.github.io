@@ -80,3 +80,7 @@ Il faut d'abord s'être assuré d'avoir connecté un ordinateur au même réseau
 ... Et d'avoir alimenté l'ensemble avec au minimum une alimentation supérieur à 8V en configuration **GND/GND/8V**.
 
 Le programme encore en phase de test téléchargeable [ici](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Puredata/pd_osc_F767ZI_stable.pd).
+
+Si le réseau fonctionne correctement, l'écran de puredata devrait afficher le message que la carte lui envoie :
+
+![](https://raw.githubusercontent.com/arpfic/arpfic.github.io/master/img/puredata.png)
