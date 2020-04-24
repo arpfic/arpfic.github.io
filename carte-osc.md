@@ -93,6 +93,6 @@ Si au contraire le message n'est pas apparu et que le réseau a été mis en pla
 * dans le premier cas, d'appuyer sur le bouton **1** de puredata,
 * dans le second cas, d'appuyer sur le bouton **bleu** de la carte OSC pour relancer le message, ou sur son bouton **noir** (*RESET*).
 
-Une fois ceci terminé, il est nécessaire (une fois pour toutes) d'adapter l'adresse IP du module dans la boîte de message **3** sur puredata et de cliquer sur le *bang* en bas à droite qui lance `/tools/connect`.
+Une fois ceci terminé, il est conseillé mais pas obligatoire d'adapter l'adresse IP du module dans la boîte de message **3** sur puredata et de cliquer sur le *bang* en bas à droite qui lance `/tools/connect`.
 
 L'ensemble des *fonctions OSC* est disponible sur [https://github.com/arpfic/Organous_OSC/blob/master/USAGE.md](https://github.com/arpfic/Organous_OSC/blob/master/USAGE.md)
