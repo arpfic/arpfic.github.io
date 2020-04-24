@@ -14,6 +14,7 @@ Une feuille de triche pour la syntaxe du *markdown* est téléchargeable et impr
 
 * Le dossier `img/` stocke des images, réutilisables sur d'autres sites. Pour récupérer leur lien, il suffit de cliquer sur l'image puis sur *Download* : on accède alors à une URL de type `https://raw.githubusercontent.com/arpfic/arpfic.github.io/master/img/XX.jpg`.
 * Le dossier `_post/` contient des billets rangés par ordre alphabétique (les classer par date permet un rangement de type blog).
+* Le dossier `drafts/` permet d'écrire des pages non visibles (ou non indexées) sur le reste du site. Un README dans le dossier explique comment les écrire.
 * Le dossier `/` racine contient les pages générales du site : celles qui nous intéressent sont les fichiers *markdown* en `.md`, qui seront affectées à la barre de navigation (tel l'accueil).
 * Les autres dossiers ainsi que les autres fichiers permettent la personnalisation de la forme du site : méta-pages, fichiers de style css etc. Il ne faut pas hésiter à les modifier elles aussi !
 
@@ -39,7 +40,7 @@ L'Orguanous est le prototype [...]
 
 Où, entre chaque `---` on a :
 
-* `layout` est le type du contenu, qu'on peut à souhait ramifier mais pour le moment, un type `page` correspond à un contenu sur le site entier, avec un lien dans la barre de navigation, et le type `post` correspond à un billet de blog accessible sur la page d'accueil.
+* `layout` est le type du contenu, qu'on peut à souhait ramifier mais pour le moment, un type `page` correspond à un contenu sur le site entier, avec un lien dans la barre de navigation ; le type `post` correspond à un billet de blog accessible sur la page d'accueil ; et enfin le type `priv-page` est une simple page dont on a retiré l'indexation dans la barre de navigation.
 * `title` est le titre de la page telle qu'elle sera affichée dans la barre de navigation ou dans les billets.
 
 ### Workflow
