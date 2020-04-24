@@ -81,7 +81,7 @@ Il faut d'abord s'être assuré d'avoir connecté un ordinateur au même réseau
 
 Le programme encore en phase de test téléchargeable [ici](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Puredata/pd_osc_F767ZI_stable.pd).
 
-Si le réseau et si la cartent fonctionnent correctement :
+Si le réseau et la carte fonctionnent correctement :
 
 * la carte doit afficher **deux** LED vertes et non une.
 * l'écran de puredata devrait afficher le message que la carte lui envoie en **2** :
@@ -93,6 +93,6 @@ Si le réseau a été mis en place après le lancement de puredata ou si la cart
 * dans le premier cas, d'appuyer sur le bouton **1** de puredata,
 * dans le second cas, d'appuyer sur le bouton **bleu** de la carte OSC pour relancer le message, ou sur son bouton **noir** (*RESET*).
 
-Une fois ceci terminé, il est conseillé mais pas obligatoire d'adapter l'adresse IP du module dans la boîte de message **3** sur puredata et de cliquer sur le band en bas à droite qui lance `/tools/connect`.
+Une fois ceci terminé, il est conseillé mais pas obligatoire d'adapter l'adresse IP du module dans la boîte de message **3** sur puredata et de cliquer sur le *bang* en bas à droite qui lance `/tools/connect`.
 
 L'ensemble des *fonctions OSC* est disponible sur [https://github.com/arpfic/Organous_OSC/blob/master/USAGE.md](https://github.com/arpfic/Organous_OSC/blob/master/USAGE.md)
