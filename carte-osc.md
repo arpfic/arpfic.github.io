@@ -77,7 +77,7 @@ Attention cependant : la communication entre les cartes-filles et les cartes-mè
 
 Il faut d'abord s'être assuré d'avoir connecté un ordinateur au même réseau que la carte OSC, c'est-à-dire *au même routeur* ou bien sur un switch qui mène à ce routeur.
 
-... Et d'avoir alimenté l'ensemble avec au minimum une alimentation supérieur à 8V en configuration **GND/GND/8V**.
+... Et d'avoir alimenté l'ensemble avec au minimum une alimentation supérieure à 8V en configuration **GND/GND/8V**.
 
 Le programme encore en phase de test téléchargeable [ici](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Puredata/pd_osc_F767ZI_stable.pd).
 
