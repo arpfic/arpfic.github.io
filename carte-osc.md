@@ -47,8 +47,28 @@ Les limites absolues du driver sont de :
 
 ##### Pour la carte-mère
 
-Pour la programmation de la carte **Nucleo-767ZI**, voir en dessous. Le seul branchement ici nécessaire à l'usage est un câble ethernet vers un routeur.
+![](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Hardware/Nucleo_144.jpg)
+
+La carte-mère de son côté **Nucleo-767ZI** se branche d'un côté ou de l'autre selon les sorties que l'on souhaite voir utilisées par l'intermédiaire des grands ports **CN1 1** et **CN1 2** de part et d'autre.
+
+Afin d'être alimentée par l'alimentation de la carte-fille au travers du convertisseur 5V, il est nécessaire si cela n'a pas été déjà fait de placer le jumper **JP3** sur la configuration **E5V**, tout à gauche.
+
+En dehors de la programmation, le seul branchement ici nécessaire à l'usage est un câble ethernet vers un routeur.
 
 Voici en résumé le branchement dans sa version la plus simple :
 
 ![](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Hardware/Organous_OSC_v0.2_exemple.jpg)
+
+### Programmation
+
+La carte se programme par **copier-coller** de son firmware dans sa mémoire comme on copie un fichier sur une clé USB par l'intermédiaire du port USB **CN1** **du haut sur les photos**, situé sur la petite extension de la carte nommée *st-link*.
+
+Le firmware lui-même est téléchargeable [ici](https://raw.githubusercontent.com/arpfic/Organous_OSC/master/Firmware/Organous_OSC_stable.bin).
+
+Attention cependant : la communication entre les cartes-filles et les cartes-mères imposent une *adresse I2C*. le firmware stable du dessus prend comme adresses I2C les petites soudures sur les cartes de sorte que :
+
+* sur le **SOCKET A 1-24**, l'adresse est **Vdd-GND-Vdd**(*0x2A* dans le programme)
+* sur le **SOCKET B 25-48**, l'adresse est **GND-Vdd-GND**(*0xD2* dans le programme).
+
+### Interface avec Puredata
+
