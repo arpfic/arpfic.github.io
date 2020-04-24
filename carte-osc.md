@@ -88,7 +88,7 @@ Si le réseau et la carte fonctionnent correctement :
 
 ![](https://raw.githubusercontent.com/arpfic/arpfic.github.io/master/img/puredata.png)
 
-Si le réseau a été mis en place après le lancement de puredata ou si la carte a été lancée avant puredata, il suffit :
+Si le réseau a été mis en place après le lancement de puredata ou si la carte a été lancée avant lui, il suffit :
 
 * dans le premier cas, d'appuyer sur le bouton **1** de puredata,
 * dans le second cas, d'appuyer sur le bouton **bleu** de la carte OSC pour relancer le message, ou sur son bouton **noir** (*RESET*).
